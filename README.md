@@ -21,7 +21,7 @@ step 3:- Start Xampp server and start apache and mysql
 
 step 4:- open phpmyadmin using this link http://localhost/phpmyadmin/ and create a database with name (shettycafe) name should be same otherwise it so error
 
-step 5:- inside the project folder a file is shettycafe.sql is import in phpmyadmin inside transport database
+step 5:- inside the project folder a file is shettycafe.sql is import in phpmyadmin inside shettycafe database
 
 step 6:- check your project http://localhost/transport/
 
