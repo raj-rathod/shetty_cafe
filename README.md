@@ -23,7 +23,7 @@ step 4:- open phpmyadmin using this link http://localhost/phpmyadmin/ and create
 
 step 5:- inside the project folder a file is shettycafe.sql is import in phpmyadmin inside shettycafe database
 
-step 6:- check your project http://localhost/transport/
+step 6:- check your project http://localhost/shettycafe/
 
 step 7:- admin username :-admin and password : admin
 
